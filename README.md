@@ -33,7 +33,7 @@ A list of books I found useful throughout my career
 
 [Traction: How Any Startup Can Achieve Explosive Customer Growth](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533) by Gabriel Weinberg and Justin Mares  [📘]\
 [Sprint: How to Solve Big Problems and Test New Ideas in just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X) [📘]\
-[How to Kill a Unicorn] by Mark Payne [📘]\
+[How to Kill a Unicorn](https://www.amazon.com/How-Kill-Unicorn-Hottest-Innovation/dp/0804138737) by Mark Payne [📘]\
 [Contagious: Why Things Catch On](https://www.amazon.com/Contagious-Things-Catch-Jonah-Berger/dp/1451686587) by Jonah Berger [📘]\
 [The Launch Pad: Inside Y Combinator](https://www.amazon.com/Launch-Pad-Inside-Combinator/dp/1591846587) by Randall Stross [📘]
 
