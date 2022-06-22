@@ -41,7 +41,7 @@ A list of books I found useful throughout my career
 #### Behavioral Economics
 [Who Gets What - and Why: The New Economics of Matchmaking and Market Design](https://www.amazon.com/Who-Gets-What-Why-Matchmaking/dp/0544705289) by Alvin E. Roth [📘] [🔥]\
 [Misbehaving](https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/039335279X) by Richard H. Thaler [📘] [🔥]\
-[Thinking Fast & Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B004R1Q2EG) by Daniel Kahneman [📘]\
+[Thinking Fast & Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B004R1Q2EG) by Daniel Kahneman [📘] [🔥]\
 [Dollar & Sense: How We Misthink Money and How to Spend Smarter](https://www.amazon.com/Dollars-Sense-Misthink-Money-Smarter/dp/0062651218) by Dan Ariely and Jeff Kreisler [📘]\
 [Superfreakonomics](https://www.amazon.com/Super-Freakonomics-Patriotic-Prostitutes-Insurance/dp/0060889578) by Steven D. Levitt and Stephen J Dubner [📘]
 
