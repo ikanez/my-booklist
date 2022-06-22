@@ -47,7 +47,7 @@ A list of books I found useful throughout my career
 
 #### Data & Insights
 [Weapons of Math Destruction: How Big Data Increases Inequality and Threaten Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831) by Cathy O'Neill  [📘]\
-[Superforecasting: The Art & Science of Prediction](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136696) by Philip E. Tetlock and Dan Gardner [📘]\
+[Superforecasting: The Art & Science of Prediction](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136696) by Philip E. Tetlock and Dan Gardner [📘] [🔥]\
 [Drinking From The Fire Hose: Making Smarter Decisions Without Drowning in Information](https://www.amazon.com/Drinking-Fire-Hose-Decisions-Information/dp/1591844266) by Christopher J Frank and Paul F. Magnone [📘]\
 [Small Data: The Tiny Clues That Uncover Huge Trends](https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250118018) by Martin Lindstrom [📘] [🔥]\
 [Lean Analytics](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675) by Alistair Croll and Benjamin Yoskovitz [📘] [🔥]\
