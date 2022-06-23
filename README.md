@@ -11,7 +11,8 @@ A list of books I found useful throughout my career
 1. [People & Culture](#people--culture)
 2. [Product, Innovation & Growth](#product-innovation--growth)
 3. [Behavior & Economics](#behavioral--economics)
-4. [Data & Insights](#data--insights)
+4. [Analytics & Insights](#analytics--insights)
+5. [Engineering](#engineering)
 
 
 #### Management & Leadership
@@ -45,7 +46,7 @@ A list of books I found useful throughout my career
 [Dollar & Sense: How We Misthink Money and How to Spend Smarter](https://www.amazon.com/Dollars-Sense-Misthink-Money-Smarter/dp/0062651218) by Dan Ariely and Jeff Kreisler [📘]\
 [Superfreakonomics](https://www.amazon.com/Super-Freakonomics-Patriotic-Prostitutes-Insurance/dp/0060889578) by Steven D. Levitt and Stephen J Dubner [📘]
 
-#### Data & Insights
+#### Analytics & Insights
 [Weapons of Math Destruction: How Big Data Increases Inequality and Threaten Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831) by Cathy O'Neill  [📘]\
 [Superforecasting: The Art & Science of Prediction](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136696) by Philip E. Tetlock and Dan Gardner [📘] [🔥]\
 [Drinking From The Fire Hose: Making Smarter Decisions Without Drowning in Information](https://www.amazon.com/Drinking-Fire-Hose-Decisions-Information/dp/1591844266) by Christopher J Frank and Paul F. Magnone [📘]\
@@ -53,3 +54,5 @@ A list of books I found useful throughout my career
 [Lean Analytics](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675) by Alistair Croll and Benjamin Yoskovitz [📘] [🔥]\
 [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/) by Cole Nussbaumer Knaflic [📘] [🔥]
 
+#### Engineering
+[The Self-Service Data Roadmap](https://www.amazon.com/Self-Service-Data-Roadmap-Democratize-Insight/dp/1492075256) by Sandeep Uttamchandani [📘] [🔥]
