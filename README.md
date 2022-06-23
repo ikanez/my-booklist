@@ -10,7 +10,7 @@ A list of books I found useful throughout my career
 1. [Management & Leadership](#management--leadership)
 1. [People & Culture](#people--culture)
 2. [Product, Innovation & Growth](#product-innovation--growth)
-3. [Behavioral Economics](#behavioral-economics)
+3. [Behavior & Economics](#behavioral--economics)
 4. [Data & Insights](#data--insights)
 
 
@@ -38,7 +38,7 @@ A list of books I found useful throughout my career
 [The Launch Pad: Inside Y Combinator](https://www.amazon.com/Launch-Pad-Inside-Combinator/dp/1591846587) by Randall Stross [📘] [🔥]\
 [The Innovators Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) by Clayton M. Christensen [📘] [🔥]
 
-#### Behavioral Economics
+#### Behavior & Economics
 [Who Gets What - and Why: The New Economics of Matchmaking and Market Design](https://www.amazon.com/Who-Gets-What-Why-Matchmaking/dp/0544705289) by Alvin E. Roth [📘] [🔥]\
 [Misbehaving](https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/039335279X) by Richard H. Thaler [📘] [🔥]\
 [Thinking Fast & Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B004R1Q2EG) by Daniel Kahneman [📘] [🔥]\
